@@ -42,4 +42,5 @@ opencv-python
 pillow
 requests
 python-multipart
+torch
 
